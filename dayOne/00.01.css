@@ -1,0 +1,27 @@
+body {
+    background-color: grey;
+  }
+  .title {
+    color: lightgreen;
+    text-align: center;
+  }
+  .blurb {
+    color: blue;
+  }
+  p {
+    color: rgb(255, 0, 0);
+  }
+  #main {
+    border: black solid 5px;
+    border-radius: 25px;
+  }
+  .blurbDiv {
+    border: solid black 2px;
+    border-radius: 10px;
+    background-color: lightgrey;
+    text-align: center;
+  }
+  #align {
+    display: flex;
+    justify-content: space-evenly;
+  }
